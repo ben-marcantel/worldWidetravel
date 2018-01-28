@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "For this project you need to use Angular to list a collection of travel guides in the DOM. Build an application that has one view, and one controller that will be responsible for retrieving the data and exposing it for use in the view. The view needs to list all book titles, which type of book it is, and the price for the book.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ben-marcantel/worldWidetravel.git"
+  },
+  "keywords": [],
+  "author": "y",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ben-marcantel/worldWidetravel/issues"
+  },
+  "homepage": "https://github.com/ben-marcantel/worldWidetravel#readme",
+  "dependencies": {
+    "angular": "^1.6.8"
+  },
+  "devDependencies": {}
+}

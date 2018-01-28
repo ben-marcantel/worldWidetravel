@@ -1,0 +1,8 @@
+<div>
+    <h1>Travel Books</h1>
+    <ul>
+        <li ng-repeat = " book in books | filter: type | filter: title | filter: price " > 
+            {{book.title}}: ${{book.price}}, {{book.type}}  
+        </li>
+    </ul>
+</div>
